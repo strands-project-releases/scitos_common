@@ -1,0 +1,31 @@
+ros-hydro-scitos-msgs (0.0.4-1quantal) quantal; urgency=high
+
+
+
+ -- cburbridge <cburbridge@gmail.com>  Wed, 27 Aug 2014 00:00:00 -0000
+
+ros-hydro-scitos-msgs (0.0.3-1quantal) quantal; urgency=high
+
+
+
+ -- cburbridge <cburbridge@gmail.com>  Wed, 27 Aug 2014 00:00:00 -0000
+
+ros-hydro-scitos-msgs (0.0.2-1quantal) quantal; urgency=high
+
+
+
+ -- cburbridge <cburbridge@gmail.com>  Wed, 27 Aug 2014 00:00:00 -0000
+
+ros-hydro-scitos-msgs (0.0.1-1quantal) quantal; urgency=high
+
+  * Adding bumper state
+  * motor status message type
+  * headlights message format
+  * removed headed
+  * New message type for controlling the light status
+  * Preparing to move scitos_msgs to common
+  * Contributors: Chris, Chris Burbridge
+
+ -- cburbridge <cburbridge@gmail.com>  Thu, 21 Aug 2014 00:00:00 -0000
+
+
