@@ -1,0 +1,12 @@
+Source: ros-hydro-scitos-msgs
+Section: misc
+Priority: extra
+Maintainer: cburbridge <cburbridge@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-message-generation, ros-hydro-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-scitos-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-std-msgs
+Description: Messages for the Scitos-G5 using the MIRA framework.
