@@ -2,6 +2,11 @@
 Changelog for package scitos_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.1 (2014-10-30)
+------------------
+* Added install targets
+* Contributors: Christian Dondrup
+
 0.1.0 (2014-10-22)
 ------------------
 * Removed the run_depend on calibrate_chest also
