@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>scitos_description</name>
-  <version>0.1.1</version>
+  <version>0.1.2</version>
   <description>
     The scitos_description package contains the description
     (mechanical, kinematic, visual, etc.) of the SCITOS robot.
@@ -17,5 +17,9 @@
   <author email="nilsbore@gmail.com">Nils Bore</author>
 
   <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>joint_state_publisher</run_depend>
+  <run_depend>robot_state_publisher</run_depend>
+  <run_depend>robot_pose_publisher</run_depend>
 
 </package>
