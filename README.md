@@ -1,3 +1,27 @@
+## scitos_common (indigo) - 0.1.6-0
+
+The packages in the `scitos_common` repository were released into the `indigo` distro by running `/usr/bin/bloom-release scitos_common -t indigo -r indigo` on `Fri, 05 Dec 2014 15:23:42 -0000`
+
+These packages were released:
+- `scitos_common`
+- `scitos_description`
+- `scitos_msgs`
+
+Version of package(s) in repository `scitos_common`:
+- upstream repository: https://github.com/strands-project/scitos_common.git
+- release repository: https://github.com/strands-project-releases/scitos_common.git
+- rosdistro version: `0.1.2-0`
+- old version: `0.1.2-0`
+- new version: `0.1.6-0`
+
+Versions of tools used:
+- bloom version: `0.5.14`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.10.32`
+- rosdistro version: `0.3.6`
+- vcstools version: `0.1.35`
+
+
 ## scitos_common (hydro) - 0.1.6-0
 
 The packages in the `scitos_common` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --non-interactive -t hydro -r hydro scitos_common` on `Thu, 20 Nov 2014 16:46:52 -0000`
