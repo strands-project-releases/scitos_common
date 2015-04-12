@@ -2,6 +2,13 @@
 Changelog for package scitos_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.7 (2015-04-12)
+------------------
+* Starting state publisher in robot namespace, setting robot description and robot/robot_description
+* Replacing deprecated xarco include
+  Gets rid of the stupid warning when launched.
+* Contributors: Christian Dondrup
+
 0.1.6 (2014-11-20)
 ------------------
 
