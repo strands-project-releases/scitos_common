@@ -2,6 +2,11 @@
 Changelog for package scitos_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.9 (2015-06-09)
+------------------
+* Add SavePersistentErrors service definition.
+* Contributors: Rares Ambrus
+
 0.1.8 (2015-05-13)
 ------------------
 
