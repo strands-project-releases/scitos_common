@@ -1,3 +1,27 @@
+## scitos_common (indigo) - 0.1.10-0
+
+The packages in the `scitos_common` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive -t indigo -r indigo scitos_common` on `Wed, 18 Nov 2015 13:59:22 -0000`
+
+These packages were released:
+- `scitos_common`
+- `scitos_description`
+- `scitos_msgs`
+
+Version of package(s) in repository `scitos_common`:
+- upstream repository: https://github.com/strands-project/scitos_common.git
+- release repository: https://github.com/strands-project-releases/scitos_common.git
+- rosdistro version: `0.1.9-0`
+- old version: `0.1.9-0`
+- new version: `0.1.10-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.37`
+
+
 ## scitos_common (indigo) - 0.1.9-0
 
 The packages in the `scitos_common` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive -t indigo -r indigo scitos_common` on `Tue, 09 Jun 2015 11:13:17 -0000`
