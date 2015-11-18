@@ -1,0 +1,12 @@
+Source: ros-indigo-scitos-common
+Section: misc
+Priority: extra
+Maintainer: Lars Kunze <l.kunze@cs.bham.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://github.com/strands-project/scitos_common
+Standards-Version: 3.9.2
+
+Package: ros-indigo-scitos-common
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-scitos-description, ros-indigo-scitos-msgs
+Description: This package contains robot-specific definitions of the SCITOS robot such as the URDF description of the robot's kinematics and dynamics and 3D models of robot components.
