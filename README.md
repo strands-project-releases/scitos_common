@@ -1,3 +1,29 @@
+## scitos_common (melodic) - 0.1.12-1
+
+The packages in the `scitos_common` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -n -t melodic -r melodic scitos_common` on `Sun, 17 Nov 2019 10:23:54 -0000`
+
+These packages were released:
+- `scitos_common`
+- `scitos_description`
+- `scitos_msgs`
+
+Version of package(s) in repository `scitos_common`:
+
+- upstream repository: https://github.com/strands-project/scitos_common.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.12-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.1`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
 ## scitos_common (kinetic) - 0.1.12-0
 
 The packages in the `scitos_common` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -n -t kinetic -r kinetic scitos_common` on `Wed, 28 Jun 2017 09:36:01 -0000`
